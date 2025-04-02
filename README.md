@@ -5,4 +5,4 @@ That translates into firmware development for Linux based validators and other e
 Other then development, part of my job is searching, testing and validating third party products and software (as a Facial Recognition System API) and integrating it with the ticketing system.
 
 It's been quite a ride so far. 
-My native language is portuguese but I can express myself confidently in English and Italian.
+My native language is portuguese but I can also express myself confidently in English and Italian.
